@@ -16,8 +16,7 @@ def app():
     
     st.title('Symbol Classification')
     st.subheader('by Cherry Mirra T. Calisnao  BSCS 3A')
-    st.write('The naive bayes classifierperforms well on overlapped data.')
-
+   
     st.write('Dataset description:')
 
     st.write('Number of features: 64')
