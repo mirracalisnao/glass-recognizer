@@ -15,10 +15,11 @@ from sklearn.metrics import classification_report
 def app():
     
     st.title('Symbol Classification')
-    st.header('by:')
+    st.write('by:')
     st.write('Cherry Mirra Calisnao BSCS 3A')
-   
-    st.header('Dataset description:')
+
+    
+    st.write('Dataset description:')
 
     st.write('Number of features: 64')
     text = """Feature representation: Binary values (1 or 0) representing the 8x8 pixels of an image.
