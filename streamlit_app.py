@@ -16,7 +16,7 @@ def app():
     
     st.title('Symbol Classification')
     st.header('by:')
-    st.write('Cherry Mirra Calisnao BSCS 3A)
+    st.write('Cherry Mirra Calisnao BSCS 3A')
    
     st.header('Dataset description:')
 
