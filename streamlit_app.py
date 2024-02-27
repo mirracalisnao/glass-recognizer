@@ -15,7 +15,7 @@ from sklearn.metrics import classification_report
 def app():
     
     st.title('Symbol Classification')
-     st.markdown("<h3 style='text-align: center;'>by: Cherry Mirra T. Calisnao BSCS 3A</h3>", unsafe_allow_html=True)
+    st.markdown("<h3> by: Cherry Mirra T. Calisnao BSCS 3A</h3>", unsafe_allow_html=True)
    
     st.write('Dataset description:')
 
