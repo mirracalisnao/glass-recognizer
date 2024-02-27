@@ -15,8 +15,8 @@ from sklearn.metrics import classification_report
 def app():
     
     st.title('Symbol Classification')
-    st.write('by:')
-    st.write('Cherry Mirra Calisnao BSCS 3A')
+    st.header('by: Cherry Mirra Calisnao BSCS 3A')
+
 
     
     st.write('Dataset description:')
